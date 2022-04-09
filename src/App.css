@@ -1,0 +1,83 @@
+
+.App {
+  display: flex;
+  justify-content: center;
+  margin: 50px;
+}
+#Kitchen {
+  text-align: center;
+  margin: 0;
+  border: 1px solid grey;
+  height: 173px;
+  min-height: 173px;
+  width: 84px;
+  min-width: 84px;
+  background-color: yellow;
+}
+
+#LivingRoom {
+    border: 1px solid grey;
+    padding: 5px;
+    height: 163px;
+    text-align: center;
+    background-color: orange;
+  
+}
+
+#FloorPlan {
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid grey;
+    width: 309px;
+    
+}
+
+#OvenSink{
+  width: 100%;
+  display: flex;
+  margin: 0;
+}
+
+#Oven {
+  font-weight: bold;
+  text-align: center;
+  margin: 0;
+  border: 1px solid grey;
+  width: 40px;
+  height: 25px;
+  background-color: rgb(199, 162, 206);
+
+}
+
+#Sink {
+  font-weight: bold;
+  border: 1px solid grey;
+  width: 40px;
+  margin: 0;
+  height: 25px;
+  background-color: aqua;
+}
+
+.Bath {
+  border: 1px solid grey;
+  text-align: center;
+  background-color: pink;
+}
+
+.Bedroom {
+  background-color: mediumaquamarine;
+  text-align: center;
+  border: 1px solid grey;
+  height: 120px;
+  width: 120px
+}
+
+
+
+
+
+
+
+
+
+
